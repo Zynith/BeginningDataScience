@@ -10,7 +10,7 @@ A repo containing personal development projects to learn general data science an
 
 [Python Statistical Analysis](https://github.com/Zynith/Python-Statistical-Analysis)
 
-[Pandas Crash Course](https://github.com/Zynith/Pandas-Crash-Course)
+[Python Pandas Crash Course](https://github.com/Zynith/Pandas-Crash-Course)
 
 [Python Data Science Libraries Exercises: Numpy, Pandas and Scikit-Learn](https://github.com/Zynith/Data-Science-Exercises)
 
