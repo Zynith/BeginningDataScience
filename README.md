@@ -4,15 +4,17 @@ A repo containing personal development projects to learn general data science an
 ***
 ## Bootcamps
 
-[Python Time Series Analysis](https://github.com/Zynith/Time-Series-Analysis)
+__[Python Time Series Analysis](https://github.com/Zynith/Time-Series-Analysis)__
 
-[Python Data Science & Machine Learning](https://github.com/Zynith/Data-Science-and-Machine-Learning-Bootcamp)
+__[Python Data Science & Machine Learning](https://github.com/Zynith/Data-Science-and-Machine-Learning-Bootcamp)__
 
-[Python Statistical Analysis](https://github.com/Zynith/Python-Statistical-Analysis)
+__[Python Machine Learning A-Z](https://github.com/Zynith/Machine-Learning-A-Z)__
 
-[Python Pandas Crash Course](https://github.com/Zynith/Pandas-Crash-Course)
+__[Python Statistical Analysis](https://github.com/Zynith/Python-Statistical-Analysis)__
 
-[Python Data Science Libraries Exercises: Numpy, Pandas and Scikit-Learn](https://github.com/Zynith/Data-Science-Exercises)
+__[Python Pandas Crash Course](https://github.com/Zynith/Pandas-Crash-Course)__
+
+__[Python Data Science Libraries Exercises: Numpy, Pandas and Scikit-Learn](https://github.com/Zynith/Data-Science-Exercises)__
 
 ***
 ## Python Projects
