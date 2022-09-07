@@ -17,5 +17,11 @@ __[Python Pandas Crash Course](https://github.com/Zynith/Pandas-Crash-Course)__
 __[Python Data Science Libraries Exercises: Numpy, Pandas and Scikit-Learn](https://github.com/Zynith/Data-Science-Exercises)__
 
 ***
+
+## Dashboards
+
+***
+
 ## Python Projects
 
+***
